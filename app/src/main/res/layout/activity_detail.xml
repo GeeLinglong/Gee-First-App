@@ -49,6 +49,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="clickBack"
         android:text="BACK"
         android:id="@+id/button2"
         android:layout_alignParentEnd="false"
